@@ -1,5 +1,5 @@
 # Star Wars API
-Uma API simples desenvolvida em Spring Boot na classe Jedi.
+Uma API simples desenvolvida em Spring Boot durante o Bootcamp de Java da WomakersCode
 
 ## Tecnologias
 - Java 11
